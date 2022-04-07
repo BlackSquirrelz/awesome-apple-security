@@ -19,6 +19,8 @@ Apple Security Advisories - https://support.apple.com/en-gb/HT201222
 
 Apple Platform Security - https://manuals.info.apple.com/MANUALS/1000/MA1902/en_GB/apple-platform-security-guide-b.pdf
 
+Apple File System - https://developer.apple.com/documentation/foundation/file_system/about_apple_file_system
+
 ---
 
 ### People
@@ -55,6 +57,8 @@ OS X iOS Kernel Programming - https://www.amazon.com/OS-X-iOS-Kernel-Programming
 
 Mac Hackers Handbook (2009)- https://www.amazon.com/Mac-Hackers-Handbook-Charlie-Miller/dp/0470395362
 
+eForensics Magazine - https://eforensicsmag.com/product/macos-forensics/
+
 ---
 
 ### Websites
@@ -76,6 +80,13 @@ Red Team Stuff - https://blog.xpnsec.com/bring-your-own-vm-mac-edition/
 More Red Team Tricks - https://wojciechregula.blog/post/
 
 Cedric Owens Medium Blog - https://cedowens.medium.com/macos-gatekeeper-bypass-2021-edition-5256a2955508
+
+## Log Analysis
+
+Unified Log - https://eclecticlight.co/2018/03/20/macos-unified-log-2-content-and-extraction/
+
+IR Logs - https://www.crowdstrike.com/blog/how-to-leverage-apple-unified-log-for-incident-response/
+
 
 ## Companies
 
@@ -103,5 +114,28 @@ VXUnderground - https://www.vx-underground.org/archive/VxHeaven/vl.php.html
 
 
 ---
+
+### Repsitories
+
+https://gist.github.com/0xmachos/6e8b813cffc2035914606bd4cda491d2
+
+https://github.com/ydkhatri/mac_apt/tree/729630c8bbe7a73cce3ca330305d3301a919cb07
+
+FS Event Parser - https://github.com/dlcowen/FSEventsParser
+
+Apollo - https://github.com/mac4n6/APOLLO
+
+### Software 
+
+
+True Tree - https://themittenmac.com/the-truetree-concept/
+
+
+### Other
+
+https://www.mac4n6.com/resources
+
+
+https://eclecticlight.co/2022/01/17/what-does-safe-mode-do-to-an-m1-mac/
 
 Thats all folks...
