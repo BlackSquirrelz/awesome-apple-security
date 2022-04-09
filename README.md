@@ -1,141 +1,185 @@
-# macOS-Forensics
-Collection of macOS (Forensics) Resources to get you started with macOS Forensics.
+# macOS & iOS Security - List
 
-This list is just a collection of stuff I found during research, it is not a definitive guide, also I am not sponsored or have any other interests except for the content of these resources. Some of the information you find in the books, or blogs may be outdated but should give you a good understanding nevertheless.
+Collection of macOS / iOS Security Resources to get you started with macOS Forensics.
 
----
-
-## Apple
-
-Developers Documentation - https://developer.apple.com/documentation/foundation?preferredLanguage=occ
-
-Security Documentation - https://support.apple.com/en-gb/guide/security/welcome/web
-
-Report Vulnearbilities - https://support.apple.com/en-gb/HT201220
-
-Apple Security Bounty - https://developer.apple.com/security-bounty/
-
-Apple Security Advisories - https://support.apple.com/en-gb/HT201222
-
-Apple Platform Security - https://manuals.info.apple.com/MANUALS/1000/MA1902/en_GB/apple-platform-security-guide-b.pdf
-
-Apple File System - https://developer.apple.com/documentation/foundation/file_system/about_apple_file_system
+This list is just a collection of stuff I found during research, it is not a definitive guide, also I am not sponsored or have any other interests except for the content of these resources. Some of the information you find in the books, or blogs may be 
+old but should give you a good understanding in any case.
 
 ---
-
-### People
-
-Cedric Owens - https://twitter.com/cedowens
-
-Patrick Wardle - https://twitter.com/patrickwardle
-
-Sarah Edwards - https://twitter.com/iamevltwin
 
 ## Acquisition
 
-Cellebrite Digital Collector (Former Macquisition) - https://cellebrite.com/en/digital-collector/
+Different tools to acquire a macOS Image, with the tools listed here I have personally worked on Forensic Cases:
+
+- Cellebrite Digital Collector (Former Macquisition) - https://cellebrite.com/en/digital-collector/
 
 ---
 
-### Presentations
+## Investigate
 
-Youtube Playlist of Presentations I liked - https://www.youtube.com/playlist?list=PL-zBXVr8oElPpEuhuTON7qE4k6iVh0zMv
+This section contains references / links that can help you identify or read up on specific topics:
 
-### OSINT 
+### Framework
 
-Specs about every Mac - https://everymac.com/
+- MITRE ATT&CK - macOS Matrix https://attack.mitre.org/matrices/enterprise/macos/
 
-### Books
+### Log Analysis
 
-The Art of Mac Malware - https://taomm.org/
+- Unified Log - https://eclecticlight.co/2018/03/20/macos-unified-log-2-content-and-extraction/
 
-OS X Incident Response - https://www.amazon.com/OS-Incident-Response-Scripting-Analysis-ebook/dp/B01FHOHHVS
-
-MacOS Internals - https://www.amazon.com/Mac-OS-Internals-Systems-Approach-ebook/dp/B004Y4UTLI/
-
-OS X iOS Kernel Programming - https://www.amazon.com/OS-X-iOS-Kernel-Programming/dp/1430235365/
-
-Mac Hackers Handbook (2009)- https://www.amazon.com/Mac-Hackers-Handbook-Charlie-Miller/dp/0470395362
-
-eForensics Magazine - https://eforensicsmag.com/product/macos-forensics/
-
----
-
-### Websites
-
-Objective-See by Patrick Wardle - https://objective-see.com/
-
-Mac4n6 - https://www.mac4n6.com/
-
-## Frameworks 
-
-MITRE ATT&CK - macOS Matrix https://attack.mitre.org/matrices/enterprise/macos/
-
-### Blogs
-
-Mac Security Blog - https://www.intego.com/mac-security-blog/
-
-Red Team Stuff - https://blog.xpnsec.com/bring-your-own-vm-mac-edition/
-
-More Red Team Tricks - https://wojciechregula.blog/post/
-
-Cedric Owens Medium Blog - https://cedowens.medium.com/macos-gatekeeper-bypass-2021-edition-5256a2955508
-
-## Log Analysis
-
-Unified Log - https://eclecticlight.co/2018/03/20/macos-unified-log-2-content-and-extraction/
-
-IR Logs - https://www.crowdstrike.com/blog/how-to-leverage-apple-unified-log-for-incident-response/
+- IR Logs - https://www.crowdstrike.com/blog/how-to-leverage-apple-unified-log-for-incident-response/
 
 
-## Companies
+### Processes
 
-Cellebrite - https://cellebrite.com/en/home/
+- True Tree - https://themittenmac.com/the-truetree-concept/
 
----
+- Process and File Monitor - https://objective-see.com/products/utilities.html
 
-## Trainings
+### Persistence
 
-Sumuri - https://sumuri.com/mac-training/
+- Persistence Methods and Samples -  https://theevilbit.github.io/beyond/
 
-SANS 518 - https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/
-
----
 
 ### Malware
 
-The Art of Mac Malware - https://taomm.org/
+When you found suspicious programs or malware, you may want to check 
 
-Sandbox Evasion Macros  - https://www.mdsec.co.uk/2018/08/escaping-the-sandbox-microsoft-office-on-macos/
+- The Art of Mac Malware - https://taomm.org/
 
-Macintosh Malware Catalogue - https://www.thesafemac.com/mmg-catalog/
+- Macintosh Malware Catalogue - https://www.thesafemac.com/mmg-catalog/
 
-VXUnderground - https://www.vx-underground.org/archive/VxHeaven/vl.php.html
+- VX-Underground - https://www.vx-underground.org/archive/VxHeaven/vl.php.html
 
+- VX-Underground Malware Source Code - https://github.com/vxunderground/MalwareSourceCode
 
 ---
 
-### Repsitories
+## Tools
 
-https://gist.github.com/0xmachos/6e8b813cffc2035914606bd4cda491d2
+### GitHub-Repsitories
 
-https://github.com/ydkhatri/mac_apt/tree/729630c8bbe7a73cce3ca330305d3301a919cb07
+- Process Tree - https://github.com/ydkhatri/mac_apt/tree/729630c8bbe7a73cce3ca330305d3301a919cb07
 
-FS Event Parser - https://github.com/dlcowen/FSEventsParser
+- FS Event Parser - https://github.com/dlcowen/FSEventsParser
 
-Apollo - https://github.com/mac4n6/APOLLO
+- Apollo - https://github.com/mac4n6/APOLLO
 
-### Software 
+---
+
+## Documentation
+
+This section contains links / references macOS, iOS documentation which may be useful during a DFIR case. 
+
+### Hardware Information
+
+- Specs about every Mac - https://everymac.com/
+
+- M1 Chip Safe Mode - https://eclecticlight.co/2022/01/17/what-does-safe-mode-do-to-an-m1-mac/
+
+### Apple Guidance
+
+- Developers Documentation - https://developer.apple.com/documentation/foundation?preferredLanguage=occ
+
+- Security Documentation - https://support.apple.com/en-gb/guide/security/welcome/web
+
+- Report Vulnearbilities - https://support.apple.com/en-gb/HT201220
+
+- Apple Security Bounty - https://developer.apple.com/security-bounty/
+
+- Apple Security Advisories - https://support.apple.com/en-gb/HT201222
+
+- Apple Platform Security - https://manuals.info.apple.com/MANUALS/1000/MA1902/en_GB/apple-platform-security-guide-b.pdf
+
+- Apple File System - https://developer.apple.com/documentation/foundation/file_system/about_apple_file_system
+
+---
+
+## Training Material
+
+I here are references / links to training material for you to train your macOS, iOS DFIR-Skillz:
+
+### Trainings
+
+Professional Training offers:
+
+- Sumuri - https://sumuri.com/mac-training/
+
+- SANS 518 - https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/
 
 
-True Tree - https://themittenmac.com/the-truetree-concept/
+### Books & Magazines
 
+*Malware* 
 
-### Other
+- The Art of Mac Malware - https://taomm.org/
 
-https://www.mac4n6.com/resources
+*Incident Response*
 
+- OS X Incident Response - https://www.amazon.com/OS-Incident-Response-Scripting-Analysis-ebook/dp/B01FHOHHVS
 
-https://eclecticlight.co/2022/01/17/what-does-safe-mode-do-to-an-m1-mac/
+*Kernel Stuff*
 
-Thats all folks...
+- NewOSXBook - http://newosxbook.com/index.php
+
+- MacOS Internals - https://www.amazon.com/Mac-OS-Internals-Systems-Approach-ebook/dp/B004Y4UTLI/
+
+- OS X iOS Kernel Programming - https://www.amazon.com/OS-X-iOS-Kernel-Programming/dp/1430235365/
+
+*Articles*
+
+- eForensics Magazine - https://eforensicsmag.com/product/macos-forensics/
+
+---
+
+# Socials
+
+In the next section I list a few people that inspired me to pursue macOS Security / Forensics
+
+---
+
+## People
+
+A list of persons that regularly post high quality macOS, iOS related content, or are specialised in this field.
+
+- Cedric Owens - https://twitter.com/cedowens
+
+- Patrick Wardle - https://twitter.com/patrickwardle
+
+- Sarah Edwards - https://twitter.com/iamevltwin
+
+---
+
+## Presentations
+
+Youtube Playlist of Presentations I liked - https://www.youtube.com/playlist?list=PL-zBXVr8oElPpEuhuTON7qE4k6iVh0zMv
+
+---
+
+## Blogs
+
+- Mac Security Blog - https://www.intego.com/mac-security-blog/
+
+- Red Team Stuff - https://blog.xpnsec.com/bring-your-own-vm-mac-edition/
+
+- More Red Team Tricks - https://wojciechregula.blog/post/
+
+- Cedric Owens Medium Blog - https://cedowens.medium.com/macos-gatekeeper-bypass-2021-edition-5256a2955508
+
+- Objective-See by Patrick Wardle - https://objective-see.com/
+
+- Mac4n6 - https://www.mac4n6.com/
+
+---
+
+## Red Team Techniques
+
+---
+
+### Sandbox Evasion
+
+Sandbox Evasion Macros  - https://www.mdsec.co.uk/2018/08/escaping-the-sandbox-microsoft-office-on-macos/
+
+---
+
+`Thats all folks...`
