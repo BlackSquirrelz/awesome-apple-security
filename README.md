@@ -21,6 +21,8 @@ This section contains references / links that can help you identify or read up o
 
 ### Framework
 
+Getting yourself familiar with tools and techniques used by adversaries targeting macOS
+
 - MITRE ATT&CK - macOS Matrix https://attack.mitre.org/matrices/enterprise/macos/
 
 ### Log Analysis
@@ -43,7 +45,7 @@ This section contains references / links that can help you identify or read up o
 
 ### Malware
 
-When you found suspicious programs or malware, you may want to check 
+When you found suspicious programs or malware, you may want to check these websites for known malware.
 
 - The Art of Mac Malware - https://taomm.org/
 
@@ -56,6 +58,8 @@ When you found suspicious programs or malware, you may want to check
 ---
 
 ## Tools
+
+A collection of open source tools that can help you do your work.
 
 ### GitHub-Repsitories
 
@@ -107,6 +111,11 @@ Professional Training offers:
 
 - SANS 518 - https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/
 
+
+### Conferences
+
+
+- Objective by the sea - https://objectivebythesea.org/v5/index.html
 
 ### Books & Magazines
 
