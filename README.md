@@ -1,6 +1,6 @@
 # Apple Security List [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Curated list of tools, techniques and resources related to Apple Security (macOS, iOS, iPadOS, tvOS, watchOS) aimed to help people with an interest in Apple related security topics to get a hold in this field, and for professionals to discover / explore other resources.
+> Curated list of tools, techniques and resources related to Apple Security (macOS, iOS, iPadOS, tvOS, watchOS) aimed to help people with an interest in Apple related cyber security topics to gain a foothold in this field.
 
 ## Contents
 
