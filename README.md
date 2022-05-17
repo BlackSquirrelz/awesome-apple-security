@@ -6,7 +6,7 @@ Curated list of tools, techniques and resources related to Apple Security (macOS
 
 - [Acquisition and Evidence Collection](#acquisition-and-evidence-collection)
 - [Apple Guidance](#apple-guidance)
-- [Attack Vectors & Adversary Techniques](#attack-vectors-and-adversary-techniques)
+- [Attack Vectors and Adversary Techniques](#attack-vectors-and-adversary-techniques)
 - [Blogs](#blogs)
 - [Books and Magazines](#books-and-magazines)
 - [Communities](#communities)
