@@ -33,7 +33,7 @@
 
 * [Developers Documentation](https://developer.apple.com/documentation/foundation?preferredLanguage=oc) - Developer Documentation for reference.
 * [Security Documentation](https://support.apple.com/en-gb/guide/security/welcome/we) - Security Documentation of Apple Products.
-* [Report Vulnearbilities](https://support.apple.com/en-gb/HT20122) - In case you want to submit a vulnerability to Apple.
+* [Report Vulnerabilities](https://support.apple.com/en-gb/HT20122) - In case you want to submit a vulnerability to Apple.
 * [Apple Security Bounty](https://developer.apple.com/security-bounty) - Apple's Bug Bounty Program information.
 * [Apple Security Advisories](https://support.apple.com/en-gb/HT20122) - Apple's Security Advisories.
 * [Apple Platform Security](https://manuals.info.apple.com/MANUALS/1000/MA1902/en_GB/apple-platform-security-guide-b.pd) - Apple Information on Platform Security.
@@ -82,7 +82,7 @@
 
 ### MALWARE
 
-* [TheSafeMac](https://www.thesafemac.com/mmg-catalog/) - Older macOS Malware Catalogue.
+* [The Safe Mac](https://www.thesafemac.com/mmg-catalog/) - Older macOS Malware Catalogue.
 * [VX-Underground](https://www.vx-underground.org/archive/VxHeaven/vl.php.html) - Malware Collection (various OS).
 * [VX-Underground Malware Source Code](https://github.com/vxunderground/MalwareSourceCode) - Malware Sourcecode collection (various OS).
 
