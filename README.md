@@ -90,7 +90,7 @@ Curated list of tools, techniques and resources related to Apple Security (macOS
 - [True Tree](https://themittenmac.com/the-truetree-concept/) - Improved process tree.
 - [Process and File Monitor](https://objective-see.com/products/utilities.html) - Command Line Utilit(ies) to monitor processes and files.
 
-## Persistance
+## Persistence
 
 - [Persistence Samples](https://theevilbit.github.io/categories/persistence/) - Collection of persistence methods and samples used.
 - [Knockknock](https://objective-see.com/products/knockknock.html) - Displays persistence items in macOS.
