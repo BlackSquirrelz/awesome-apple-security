@@ -25,8 +25,8 @@
 
 - [Cellebrite Digital Collector (Former Macquisition)](https://cellebrite.com/en/digital-collector/) - Commercial Tooling for Acquisition of macOS Forensic Images.
 - [macOS Artifact Parsing Tool (mac_apt)](https://github.com/ydkhatri/mac_apt) - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files.
-- [OSX Auditor](https://github.com/jipegit/OSXAuditor) - Free Mac OS X computer forensics tool.
-- [OSX Collector](https://github.com/yelp/osxcollector) - OSX Auditor offshoot for live response.
+- [OSX Auditor](https://github.com/jipegit/OSXAuditor) - macOS DFIR tool.
+- [OSX Collector](https://github.com/yelp/osxcollector) - macOS offshoot for live response.
 - [The ESF Playground](https://themittenmac.com/the-esf-playground/) - A tool to view the events in Apple Endpoint Security Framework (ESF) in real time.
 
 ### APPLE GUIDANCE
@@ -35,7 +35,6 @@
 - [Security Documentation](https://support.apple.com/en-gb/guide/security/welcome/we) - Security Documentation of Apple Products.
 - [Report Vulnerabilities](https://support.apple.com/en-gb/HT20122) - In case you want to submit a vulnerability to Apple.
 - [Apple Security Bounty](https://developer.apple.com/security-bounty) - Apple's Bug Bounty Program information.
-- [Apple Security Advisories](https://support.apple.com/en-gb/HT20122) - Apple's Security Advisories.
 - [Apple Platform Security](https://manuals.info.apple.com/MANUALS/1000/MA1902/en_GB/apple-platform-security-guide-b.pd) - Apple Information on Platform Security.
 - [Apple File System](https://developer.apple.com/documentation/foundation/file_system/about_apple_file_system) - Documentation on the filesystem.
 
@@ -57,8 +56,8 @@
 
 - [The Art of Mac Malware](https://taomm.org/) - Primer on malware on macOS by Patrick Wardle.
 - [OS X Incident Response](https://www.amazon.com/OS-Incident-Response-Scripting-Analysis-ebook/dp/B01FHOHHVS) - Incident Response on OSX (2017).
-- [NewOSXBook](http://newosxbook.com/index.php) - OSX Kernel Bible.
-- [MacOS Internals](https://www.amazon.com/Mac-OS-Internals-Systems-Approach-ebook/dp/B004Y4UTLI/) - Internals of MacOS (2007).
+- [NewOSXBook](http://newosxbook.com/index.php) - macOS Kernel Bible.
+- [macOS Internals](https://www.amazon.com/Mac-OS-Internals-Systems-Approach-ebook/dp/B004Y4UTLI/) - Internals of macOS (2007).
 - [OS X iOS Kernel Programming](https://www.amazon.com/OS-X-iOS-Kernel-Programming/dp/1430235365/) - Kernel Programming reference for macOS / iOS.
 - [eForensics Magazine](https://eforensicsmag.com/product/macos-forensics/) - Magazine for (macOS) Forensics.
 
@@ -105,7 +104,7 @@
 
 - [Sumuri](https://sumuri.com/mac-training/) - Forensics Training in two parts for macOS, to gain Certified Forensic Mac Examiner Certification.
 - [SANS 518](https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/) - Course at SANS for macOS and iOS Forensics.
-- [Objective by the sea ](https://objectivebythesea.org/v5/index.html) - Security Conference (macOS) organized by Patrick Wardle.
+- [Objective-by-the-sea](https://objectivebythesea.org/v5/index.html) - Security Conference (macOS) organized by Patrick Wardle.
 
 ### VIDEOS
 
