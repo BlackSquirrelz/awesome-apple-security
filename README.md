@@ -9,7 +9,7 @@
 - [Attack Vectors and Adversary Techniques](#attack-vectors-and-adversary-techniques)
 - [Blogs](#blogs)
 - [Books and Magazines](#books-and-magazines)
-- [Communities](#communities)
+- [Twitter](#twitter)
 - [Hardware Information](#hardware-information)
 - [Log Analysis](#log-analysis)
 - [Malware](#malware)
@@ -61,7 +61,7 @@
 - [Kernel Programming](https://www.amazon.com/OS-X-iOS-Kernel-Programming/dp/1430235365/) - Kernel Programming reference for macOS / iOS.
 - [eForensics Magazine](https://eforensicsmag.com/product/macos-forensics/) - Magazine for (macOS) Forensics.
 
-## Communities
+## Twitter
 
 - [Cedric Owens](https://twitter.com/cedowens) - Twitter - macOS Security Researcher and Purple Teamer.
 - [Csaba Fitzl](https://twitter.com/theevilbit) - Twitter - Hungarian Researcher specialized on macOS Security.
@@ -108,4 +108,4 @@
 
 ## Videos
 
-- [Curated YT Playlist](https://www.youtube.com/playlist?list=PL-zBXVr8oElPpEuhuTON7qE4k6iVh0zMv) - Playlist with macOS/iOS Security Topics.
+- [Curated YT Playlist](https://www.youtube.com/playlist?list=PL-zBXVr8oElPpEuhuTON7qE4k6iVh0zMv) - Curated youtube playlist with macOS/iOS Security Topics.
