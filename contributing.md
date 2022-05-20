@@ -6,5 +6,4 @@ Please ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - Use the following format: [RESOURCE](LINK) - DESCRIPTION
 - The pull request and commit should have a useful title.
-- Titles should be capitalized.
 - List is organised by alphabetical order, please place in appropriate position.
