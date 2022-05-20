@@ -1,4 +1,4 @@
-# Aweseome Apple Security List [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Apple Security List [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > Curated list of tools, techniques and resources related to Apple Security (macOS, iOS, iPadOS, tvOS, watchOS) aimed to help people with an interest in Apple related cyber security topics to gain a foothold in this field.
 
