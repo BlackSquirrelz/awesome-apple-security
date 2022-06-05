@@ -108,4 +108,4 @@
 
 ## Videos
 
-- [Curated YT Playlist](https://www.youtube.com/playlist?list=PL-zBXVr8oElPpEuhuTON7qE4k6iVh0zMv) - Curated youtube playlist with macOS/iOS Security Topics.
+- [Curated YT Playlist](https://www.youtube.com/playlist?list=PL-zBXVr8oElPpEuhuTON7qE4k6iVh0zMv) - Curated YouTube playlist with macOS/iOS Security Topics.
