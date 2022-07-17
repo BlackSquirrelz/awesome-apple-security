@@ -28,6 +28,7 @@
 - [Auditor](https://github.com/jipegit/OSXAuditor) - macOS DFIR tool.
 - [Collector](https://github.com/yelp/osxcollector) - macOS offshoot for live response.
 - [The ESF Playground](https://themittenmac.com/the-esf-playground/) - A tool to view the events in Apple Endpoint Security Framework (ESF) in real time.
+- [iOS Forensics for Investigators](https://www.amazon.com/iOS-Forensics-Investigators-forensics-extracting-ebook-dp-B09V19ZBKK/dp/B09V19ZBKK/ref=mt_other?_encoding=UTF8&me=&qid=) - iOS Forensics Book
 
 ## Apple Guidance
 
@@ -108,4 +109,4 @@
 
 ## Videos
 
-- [Curated YT Playlist](https://www.youtube.com/playlist?list=PL-zBXVr8oElPpEuhuTON7qE4k6iVh0zMv) - Curated YouTube playlist with macOS/iOS Security Topics.
+- [Curated YouTube Playlist](https://www.youtube.com/playlist?list=PL-zBXVr8oElPpEuhuTON7qE4k6iVh0zMv) - Curated YouTube playlist with macOS/iOS Security Topics.
