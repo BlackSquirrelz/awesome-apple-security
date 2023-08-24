@@ -4,20 +4,23 @@
 
 ## Contents
 
-- [Acquisition and Evidence Collection](#acquisition-and-evidence-collection)
-- [Apple Guidance](#apple-guidance)
-- [Attack Vectors and Adversary Techniques](#attack-vectors-and-adversary-techniques)
-- [Blogs](#blogs)
-- [Books and Magazines](#books-and-magazines)
-- [Twitter](#twitter)
-- [Hardware Information](#hardware-information)
-- [Log Analysis](#log-analysis)
-- [Malware](#malware)
-- [Processes](#processes)
-- [Persistence](#persistence)
-- [Tools](#tools)
-- [Trainings](#trainings)
-- [Videos](#videos)
+- [Awesome Apple Security List ](#awesome-apple-security-list-)
+  - [Contents](#contents)
+  - [Acquisition and Evidence Collection](#acquisition-and-evidence-collection)
+  - [Apple Guidance](#apple-guidance)
+  - [Attack Vectors and Adversary Techniques](#attack-vectors-and-adversary-techniques)
+  - [Blogs](#blogs)
+  - [Articles](#articles)
+  - [Books and Magazines](#books-and-magazines)
+  - [People](#people)
+  - [Hardware Information](#hardware-information)
+  - [Log Analysis](#log-analysis)
+  - [Malware](#malware)
+  - [Processes](#processes)
+  - [Persistence](#persistence)
+  - [Tools](#tools)
+  - [Trainings](#trainings)
+  - [Videos](#videos)
 
 ---
 
@@ -25,10 +28,10 @@
 
 - [Cellebrite Digital Collector (Former Macquisition)](https://cellebrite.com/en/digital-collector/) - Commercial Tooling for Acquisition of macOS Forensic Images.
 - [mac_apt](https://github.com/ydkhatri/mac_apt) - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files.
-- [Auditor](https://github.com/jipegit/OSXAuditor) - macOS DFIR tool.
+- [Auditor](https://github.com/jipegit/OSXAuditor) - Deprecated macOS DFIR tool for older systems.
 - [Collector](https://github.com/yelp/osxcollector) - macOS offshoot for live response.
 - [The ESF Playground](https://themittenmac.com/the-esf-playground/) - A tool to view the events in Apple Endpoint Security Framework (ESF) in real time.
-- [iOS Forensics for Investigators](https://www.amazon.com/iOS-Forensics-Investigators-forensics-extracting-ebook-dp-B09V19ZBKK/dp/B09V19ZBKK/ref=mt_other?_encoding=UTF8&me=&qid=) - iOS Forensics Book
+
 
 ## Apple Guidance
 
@@ -51,6 +54,12 @@
 - [Cedric Owens Medium Blog](https://cedowens.medium.com) - Cedric Owens Blog on macOS Security. 
 - [Objective-See by Patrick Wardle](https://objective-see.com/) - Patrick Wardle's Website.
 - [Mac4n6](https://www.mac4n6.com/) - Mac Forensics.
+- [Mandiant](https://www.mandiant.com/search?search=macos) - Mandiant macOS Articles.
+
+## Articles
+
+- [RE Cocoa Applications](https://www.mandiant.com/resources/blog/introduction-to-reve) - 
+- [Office365 Sanbox Escape](https://desi-jarvis.medium.com/office365-macos-sandbox-escape-fcce4fa4123c) - Sandbox Escape macOS for Office365.
 
 
 ## Books and Magazines
@@ -61,13 +70,16 @@
 - [macOS Internals](https://www.amazon.com/Mac-OS-Internals-Systems-Approach-ebook/dp/B004Y4UTLI/) - Internals of macOS (2007).
 - [Kernel Programming](https://www.amazon.com/OS-X-iOS-Kernel-Programming/dp/1430235365/) - Kernel Programming reference for macOS / iOS.
 - [eForensics Magazine](https://eforensicsmag.com/product/macos-forensics/) - Magazine for (macOS) Forensics.
+- [iOS Forensics for Investigators](https://www.amazon.com/iOS-Forensics-Investigators-forensics-extracting-ebook-dp-B09V19ZBKK/dp/B09V19ZBKK/ref=mt_other?_encoding=UTF8&me=&qid=) - iOS Forensics Book.
+- 
 
-## Twitter
+## People
 
-- [Cedric Owens](https://twitter.com/cedowens) - Twitter - macOS Security Researcher and Purple Teamer.
-- [Csaba Fitzl](https://twitter.com/theevilbit) - Twitter - Hungarian Researcher specialized on macOS Security.
-- [Patrick Wardle](https://twitter.com/patrickwardle) - Twitter - Founder of Objective-see, and Security Researcher.
-- [Sarah Edwards](https://twitter.com/iamevltwin) - Twitter - Security Researcher and Trainer of SANS 518 Course.
+- [Cedric Owens](https://twitter.com/cedowens) - X - macOS Security Researcher and Purple Teamer.
+- [Csaba Fitzl](https://twitter.com/theevilbit) - X - Hungarian Researcher specialized on macOS Security.
+- [Patrick Wardle](https://twitter.com/patrickwardle) - X - Founder of Objective-see, and Security Researcher.
+- [Sarah Edwards](https://twitter.com/iamevltwin) - X - Security Researcher and Trainer of SANS 518 Course.
+- [Cody Thomas](https://github.com/its-a-feature) - GitHub - Developer of Mythic C2.
 
 
 ## Hardware Information
@@ -95,17 +107,25 @@
 
 - [Persistence Samples](https://theevilbit.github.io/categories/persistence/) - Collection of persistence methods and samples used.
 - [Knockknock](https://objective-see.com/products/knockknock.html) - Displays persistence items in macOS.
+- [PersistentJXA](https://github.com/D00MFist/PersistentJXA) - Collection of macOS persistence methods in JXA.
+- [Apple Persistence Mechanisms](https://gist.github.com/jipegit/04d1c577f20922adcd2cfd90698c151b) - Persistence Mechanisms.
 
 ## Tools
 
 - [Process Tree](https://github.com/ydkhatri/mac_apt/tree/729630c8bbe7a73cce3ca330305d3301a919cb07) - Process tree Repository.
 - [FS Event Parser](https://github.com/dlcowen/FSEventsParser) - Parsing filesystem events.
+- [FS Monitor](https://fsmonitor.com/) - FS Monitor to view live file system changes.
+- [Mythic C2](https://docs.mythic-c2.net/) - Mythic C2 Framework Documentation.
+- [VOODOO](https://github.com/breakpointHQ/VOODOO) - Browser Attack Framework for macOS.
+- [SwiftSpy](https://github.com/slyd0g/SwiftSpy) - macOS Keyloger written in Swift.
 
 ## Trainings
 
+- [OffSec EXP-312](https://www.offsec.com/courses/exp-312/) - Advanced macOS Control Bypass Trainin by OffSec's @theevilbit.
 - [Sumuri](https://sumuri.com/mac-training/) - Forensics Training in two parts for macOS, to gain Certified Forensic Mac Examiner Certification.
 - [SANS 518](https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/) - Course at SANS for macOS and iOS Forensics.
 - [Objective-by-the-sea](https://objectivebythesea.org/v5/index.html) - Security Conference (macOS) organized by Patrick Wardle.
+- [SpecterOPS](https://specterops.io/training/mac-tradecraft/) - SPECTEROPS macOS Adversary Tactics.
 
 ## Videos
 
