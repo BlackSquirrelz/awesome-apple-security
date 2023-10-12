@@ -210,6 +210,11 @@
 - [iOS App Static Analysis](https://codeshare.frida.re/@interference-security/ios-app-static-analysis/) - Script for iOS app's static analysis.
 - [Touch ID Bypass](https://highaltitudehacks.com/2018/07/26/ios-application-security-part-50-touch-id-bypass-with-frida/) - A Frida script for iOS Touch/Face ID Bypass.
 
+## Conferences
+
+- [MacDevOps YVR](https://mdoyvr.com)
+- [OBTS](https://objectivebythesea.org)
+
 ## Trainings
 
 - [OffSec EXP-312](https://www.offsec.com/courses/exp-312/) - Advanced macOS Control Bypass Trainin by OffSec's @theevilbit.
