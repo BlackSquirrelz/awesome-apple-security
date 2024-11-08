@@ -94,6 +94,8 @@
 - [Patrick Wardle](https://twitter.com/patrickwardle) - X - Founder of Objective-see, and Security Researcher.
 - [Sarah Edwards](https://twitter.com/iamevltwin) - X - Security Researcher and Trainer of SANS 518 Course.
 - [Cody Thomas](https://github.com/its-a-feature) - GitHub - Developer of Mythic C2.
+- [Regula Wojciech](https://x.com/_r3ggi) - X - macOS Security Researcher.
+- [Alexis Brignoni](https://infosec.exchange/@abrignoni) - X - DFIR Researcher, iLEAPP Developer.
 
 
 ## Hardware Information
@@ -111,6 +113,7 @@
 - [The Safe Mac](https://www.thesafemac.com/mmg-catalog/) - Older macOS Malware Catalogue.
 - [VX-Underground](https://www.vx-underground.org/archive/VxHeaven/vl.php.html) - Malware Collection (various OS).
 - [VX-Underground Malware Source Code](https://github.com/vxunderground/MalwareSourceCode) - Malware Sourcecode collection (various OS).
+- [Objective-See Malware](https://github.com/objective-see/Malware) - Malware Collection by Patrick Wardle.
 
 ## Processes
 
@@ -129,6 +132,7 @@
 ### Process Viewer
 
 - [Process Tree](https://github.com/ydkhatri/mac_apt/tree/729630c8bbe7a73cce3ca330305d3301a919cb07) - Process tree Repository.
+
   
 ### File System
 
