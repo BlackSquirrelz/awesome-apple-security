@@ -13,9 +13,10 @@
   - [Articles](#articles)
   - [Books and Magazines](#books-and-magazines)
   - [People](#people)
+  - [Software Collections](#software-collections)
+  - [Malware](#malware)
   - [Hardware Information](#hardware-information)
   - [Log Analysis](#log-analysis)
-  - [Malware](#malware)
   - [Processes](#processes)
   - [Persistence](#persistence)
   - [Tools](#tools)
@@ -26,6 +27,7 @@
     - [Dynamic Analysis Tools](#dynamic-analysis-tools)
     - [Static Analysis Tools](#static-analysis-tools)
     - [Frida](#frida)
+  - [Conferences](#conferences)
   - [Trainings](#trainings)
   - [Videos](#videos)
   - [Contributing](#contributing)
@@ -97,6 +99,15 @@
 - [Regula Wojciech](https://x.com/_r3ggi) - X - macOS Security Researcher.
 - [Alexis Brignoni](https://infosec.exchange/@abrignoni) - X - DFIR Researcher, iLEAPP Developer.
 
+## Software Collections
+- [Macintosh Repository](https://www.macintoshrepository.org/) - Repository of old macOS Software.
+
+## Malware
+
+- [The Safe Mac](https://www.thesafemac.com/mmg-catalog/) - Older macOS Malware Catalogue.
+- [VX-Underground](https://www.vx-underground.org/archive/VxHeaven/vl.php.html) - Malware Collection (various OS).
+- [VX-Underground Malware Source Code](https://github.com/vxunderground/MalwareSourceCode) - Malware Sourcecode collection (various OS).
+- [Objective-See Malware](https://github.com/objective-see/Malware) - Malware Collection by Patrick Wardle.
 
 ## Hardware Information
 
@@ -108,12 +119,6 @@
 - [Unified Log](https://eclecticlight.co/2018/03/20/macos-unified-log-2-content-and-extraction/) - A primer on macOS Unified Log.
 - [Unified Log in Incident Response](https://www.crowdstrike.com/blog/how-to-leverage-apple-unified-log-for-incident-response/) - Using the Unified Log for Incident Response.
 
-## Malware
-
-- [The Safe Mac](https://www.thesafemac.com/mmg-catalog/) - Older macOS Malware Catalogue.
-- [VX-Underground](https://www.vx-underground.org/archive/VxHeaven/vl.php.html) - Malware Collection (various OS).
-- [VX-Underground Malware Source Code](https://github.com/vxunderground/MalwareSourceCode) - Malware Sourcecode collection (various OS).
-- [Objective-See Malware](https://github.com/objective-see/Malware) - Malware Collection by Patrick Wardle.
 
 ## Processes
 
