@@ -6,7 +6,8 @@
 
 - [Awesome Apple Security List ](#awesome-apple-security-list-)
   - [Contents](#contents)
-  - [Acquisition and Evidence Collection](#acquisition-and-evidence-collection)
+  - [Forensics](#forensics)
+    - [Acquisition and Evidence Collection](#acquisition-and-evidence-collection)
   - [Apple Guidance](#apple-guidance)
   - [Attack Vectors and Adversary Techniques](#attack-vectors-and-adversary-techniques)
   - [Blogs](#blogs)
@@ -33,8 +34,9 @@
   - [Contributing](#contributing)
 
 ---
+## Forensics
 
-## Acquisition and Evidence Collection
+### Acquisition and Evidence Collection
 
 - [Cellebrite Digital Collector (Former Macquisition)](https://cellebrite.com/en/digital-collector/) - Commercial Tooling for Acquisition of macOS Forensic Images.
 - [mac_apt](https://github.com/ydkhatri/mac_apt) - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files.
@@ -141,8 +143,9 @@
   
 ### File System
 
-- [FS Event Parser](https://github.com/dlcowen/FSEventsParser) - Parsing filesystem events.
+- [iOS FS Event Parser](https://github.com/dlcowen/FSEventsParser) - Parsing filesystem events.
 - [FS Monitor](https://fsmonitor.com/) - FS Monitor to view live file system changes.
+- [macOS FS Events Parser](https://github.com/mac4n6/FSEventsParser) - FS Events Parser.
 
 ### Offensive Tools
 
