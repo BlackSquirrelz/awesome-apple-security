@@ -100,6 +100,7 @@
 - [Cody Thomas](https://github.com/its-a-feature) - GitHub - Developer of Mythic C2.
 - [Regula Wojciech](https://x.com/_r3ggi) - X - macOS Security Researcher.
 - [Alexis Brignoni](https://infosec.exchange/@abrignoni) - X - DFIR Researcher, iLEAPP Developer.
+- [M4shl3](https://hackmd.io/@M4shl3) - hackmd.io - Digital Forensics Investigator.
 
 ## Software Collections
 - [Macintosh Repository](https://www.macintoshrepository.org/) - Repository of old macOS Software.
