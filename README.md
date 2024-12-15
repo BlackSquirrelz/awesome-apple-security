@@ -239,6 +239,7 @@
 - [iOS Pentesting](https://www.youtube.com/playlist?list=PL5Fxd3nu70eyqiqrVlD9QMoaOARr082TA) - By Mantis.
 - [iOS Application Pentesting Series](https://www.youtube.com/playlist?list=PLm_U3e1sSTMvgj1sbZ2Ng6VbxMWw8Wyk9) - By Sateesh Verma.
 - [IOS: Penetration Testing](https://www.youtube.com/playlist?list=PLanZMaPa4zzyGJ7IiW2zQNC40pWf2-7uE) - By Noisy Hacker.
+- [JAMF 100 Course](https://www.youtube.com/watch?v=DsaWL0xzs6o&list=PLWs1qukS_mcb1wwKeSnT80kvTKow_eJXJ) - JAMF 100 Youtube Playlist.
 
 ## Videos
 
