@@ -67,6 +67,7 @@
 - [Objective-See by Patrick Wardle](https://objective-see.com/) - Patrick Wardle's Website.
 - [Mac4n6](https://www.mac4n6.com/) - Mac Forensics.
 - [Mandiant](https://www.mandiant.com/search?search=macos) - Mandiant macOS Articles.
+- [Scripting OSX!](https://scriptingosx.com/) - macOS Admin related Blog.
 
 ## Articles
 
@@ -104,6 +105,8 @@
 
 ## Software Collections
 - [Macintosh Repository](https://www.macintoshrepository.org/) - Repository of old macOS Software.
+- [IPSW Repository](https://ipsw.me/) - Repository of IPSW Restore files.
+- [Mr Macintosh](https://mrmacintosh.com/) - Collection of macOS Firmware and so much more.
 
 ## Malware
 
