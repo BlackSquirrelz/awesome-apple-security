@@ -217,6 +217,10 @@
 - [3uTools](http://www.3u.com/) - An All-in-One management software for iOS devices.
 - [iTools](https://www.thinkskysoft.com/itools/) - An All-in-One solution for iOS devices management.
 
+### TCC & Permissions Tools
+
+- [MacOS-Full-Disk-Access-Tunnel](https://github.com/civillizard/MacOS-Full-Disk-Access-Tunnel) - Grant Full Disk Access to interpreter binaries (Python, Node, Ruby) so launchd and cron scripts can read TCC-protected data like Safari history, cookies, and Photos metadata.
+
 ### Frida
 
 - [FridaSwiftDump](https://github.com/neil-wu/FridaSwiftDump/) - A Frida script for retriving the Swift Object info from an running app.
