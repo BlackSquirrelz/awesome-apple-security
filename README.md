@@ -174,6 +174,7 @@
 - [class-dump](https://github.com/nygard/class-dump) - A command-line utility for examining the Objective-C segment of Mach-O files.
 - [SwiftDump](https://github.com/neil-wu/SwiftDump/) - A command-line tool for retriving the Swift Object info from Mach-O file.
 - [jtool](http://www.newosxbook.com/tools/jtool.html) - An app inspector, disassembler, and signing utility for the macOS, iOS.
+- [REA](https://github.com/morluto/rea) - Local CLI and MCP tools for agent-assisted analysis of macOS app bundles, Mach-O binaries, and Electron apps, with evidence provenance; native deep analysis uses separately installed Hopper, Ghidra, or IDA.
 - [Sideloadly](https://sideloadly.io/) - An app to sideload your favorite games and apps to Jailbroken & Non-Jailbroken iOS devices.
 - [Cydia Impactor](http://www.cydiaimpactor.com/) - A GUI tool for sideloading iOS application.
 - [AltStore](https://altstore.io/) - Allows to sideload other apps (.ipa files) onto iOS device.
