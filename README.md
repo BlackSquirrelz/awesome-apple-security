@@ -23,6 +23,7 @@
   - [Tools](#tools)
     - [Process Viewer](#process-viewer)
     - [File System](#file-system)
+    - [MCP and Agentic AI Tools](#mcp-and-agentic-ai-tools)
     - [Offensive Tools](#offensive-tools)
     - [Reverse Engineering Tools](#reverse-engineering-tools)
     - [Dynamic Analysis Tools](#dynamic-analysis-tools)
@@ -151,6 +152,10 @@
 - [FS Monitor](https://fsmonitor.com/) - FS Monitor to view live file system changes.
 - [macOS FS Events Parser](https://github.com/mac4n6/FSEventsParser) - FS Events Parser.
 
+### MCP and Agentic AI Tools
+
+- [REA](https://github.com/morluto/rea) - Local CLI and MCP server for reverse engineering macOS binaries, app bundles, and Electron apps.
+
 ### Offensive Tools
 
 - [Mythic C2](https://docs.mythic-c2.net/) - Mythic C2 Framework Documentation.
@@ -174,7 +179,6 @@
 - [class-dump](https://github.com/nygard/class-dump) - A command-line utility for examining the Objective-C segment of Mach-O files.
 - [SwiftDump](https://github.com/neil-wu/SwiftDump/) - A command-line tool for retriving the Swift Object info from Mach-O file.
 - [jtool](http://www.newosxbook.com/tools/jtool.html) - An app inspector, disassembler, and signing utility for the macOS, iOS.
-- [REA](https://github.com/morluto/rea) - Local CLI and MCP tools for agent-assisted analysis of macOS app bundles, Mach-O binaries, and Electron apps, with evidence provenance; native deep analysis uses separately installed Hopper, Ghidra, or IDA.
 - [Sideloadly](https://sideloadly.io/) - An app to sideload your favorite games and apps to Jailbroken & Non-Jailbroken iOS devices.
 - [Cydia Impactor](http://www.cydiaimpactor.com/) - A GUI tool for sideloading iOS application.
 - [AltStore](https://altstore.io/) - Allows to sideload other apps (.ipa files) onto iOS device.
