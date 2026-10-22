@@ -23,6 +23,7 @@
   - [Tools](#tools)
     - [Process Viewer](#process-viewer)
     - [File System](#file-system)
+    - [MCP and Agentic AI Tools](#mcp-and-agentic-ai-tools)
     - [Offensive Tools](#offensive-tools)
     - [Reverse Engineering Tools](#reverse-engineering-tools)
     - [Dynamic Analysis Tools](#dynamic-analysis-tools)
@@ -150,6 +151,10 @@
 - [iOS FS Event Parser](https://github.com/dlcowen/FSEventsParser) - Parsing filesystem events.
 - [FS Monitor](https://fsmonitor.com/) - FS Monitor to view live file system changes.
 - [macOS FS Events Parser](https://github.com/mac4n6/FSEventsParser) - FS Events Parser.
+
+### MCP and Agentic AI Tools
+
+- [REA](https://github.com/morluto/rea) - Local CLI and MCP server for reverse engineering macOS binaries, app bundles, and Electron apps.
 
 ### Offensive Tools
 
